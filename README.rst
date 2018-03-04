@@ -1,7 +1,7 @@
 AutoSimulationCraft
 ========================
 
-.. image:: https://pypip.in/v/autosimulationcraft/badge.png
+.. image:: https://img.shields.io/pypi/v/autosimulationcraft.svg
    :target: https://crate.io/packages/autosimulationcraft
 
 .. image:: http://jantman-personal-public.s3-website-us-east-1.amazonaws.com/pypi-stats/autosimulationcraft/per-month.svg
